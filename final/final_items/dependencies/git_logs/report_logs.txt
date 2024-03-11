@@ -1,0 +1,293 @@
+commit 2a8fbe13bba82a7086788fcd474a7bba0ae1c4ee
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Sun Mar 10 19:28:10 2024 -0600
+
+    Finished report up to individual reflection
+
+commit bbcb7ba77a45077715aea6f0fff44f2f93bd408b
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Sun Mar 10 18:58:03 2024 -0600
+
+    WOrk on tests sets and weeks 6-7
+
+commit 74204a132fe16495226c916be5943410df548612
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Sat Mar 9 23:39:04 2024 -0700
+
+    Add week 5 to report
+
+commit 46e0524d2a58daacec82bb698e94b4e7348fbb14
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Tue Mar 5 19:29:53 2024 -0700
+
+    Add SUS survey's to project
+
+commit 2eebb92f54a54333616de19b62cea308a7862cbc
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Sun Mar 3 20:11:29 2024 -0700
+
+    Refactor report
+
+commit 3af5b9a4e8e5a7c31a8010fd530e50136ea4eb5e
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Sat Mar 2 23:26:09 2024 -0700
+
+    Add SUS survey's to report
+
+commit 12ee96377db31809280686077668ec5bf7aaebf6
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Tue Feb 27 19:56:28 2024 -0700
+
+    Work on conclusion
+
+commit 41399149b8a049fa5e3028fb94053cc8bb62ff4d
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Mon Feb 26 23:11:46 2024 -0700
+
+    Work on usability analysis
+
+commit 961dedc0d7b4e3306662ee0f6ed608a5a9a0d8fd
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Sun Feb 25 19:09:28 2024 -0700
+
+    WOrk on conclusion of report
+
+commit d65e49ce28684b47e17a90ddeb2fccb9034f57a8
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Sat Feb 24 18:08:37 2024 -0700
+
+    Work on evaluation
+
+commit d5f5ec3cdb157dd7ec39f59f68ac209495a69c61
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Fri Feb 23 22:47:39 2024 -0700
+
+    Work on analysis portion of report
+
+commit 04d654cfe333614149199cba5b7481f0be29fe9e
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Thu Feb 22 23:22:33 2024 -0700
+
+    Work on analysis section of report
+
+commit 56b4d5b78d8fc4d1f7423e080172b880f1a7b841
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Wed Feb 21 23:12:48 2024 -0700
+
+    Work on design portion of report
+
+commit e87f85ae84104832a1f7737c44a4c569fabffa67
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Tue Feb 20 21:40:01 2024 -0700
+
+    Largely done week four description.
+
+commit 257e201bb0b533cad7e0d607404b012b4ddde394
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Mon Feb 19 21:36:22 2024 -0700
+
+    Refactor dependencies for week 3
+
+commit aabf6427b4a2941363e139435a0b99c3523fd18f
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Mon Feb 19 19:09:27 2024 -0700
+
+    Refator week one and its dependencies.
+
+commit 7bfe6d308c1f2b6b18319d221ba04dfad3b080ec
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Fri Feb 16 19:17:24 2024 -0700
+
+    Work on weeks 4 and 5 of report
+
+commit 4b1eabe8704ca6329bea99a8c8f27acb5b3049ec
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Thu Feb 15 21:26:36 2024 -0700
+
+    Work on week 3 of report
+
+commit d68936273bfb3457b4501329fef4daac3d82b6ed
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Wed Feb 14 21:23:11 2024 -0700
+
+    Work on week three of the report
+
+commit 90820f723b9e46f843186efa0d6df3156f4f1071
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Mon Feb 12 23:09:45 2024 -0700
+
+    Refector report
+
+commit 42dfb9267c59404b870cd24530dc80e8a777c8f7
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Mon Feb 12 23:06:42 2024 -0700
+
+    Refactor report
+
+commit c61a556e849b00da96de19c72e4e8b440c1af21a
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Sun Feb 11 16:21:43 2024 -0700
+
+    Work on section 3 of report.
+
+commit 050942d3fd29d11603de407ab6cd26c54eacb888
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Tue Feb 6 21:25:30 2024 -0700
+
+    Work on final report
+
+commit 456a260df5b0d32bb222d148b0ed9f073a8b4809
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Fri Feb 2 21:30:29 2024 -0700
+
+    Work on literature section of background
+
+commit de4cc82290fd744b76b59cadfa27b63e1f0fef0d
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Thu Feb 1 20:48:20 2024 -0700
+
+    Rough draft of introduction done
+
+commit ccfe320d0c671f37b23cc7ef6ca62ec950740aec
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Sun Jan 28 21:46:33 2024 -0700
+
+    Create final project
+
+commit 34f2d13e5ff3de0779fbf94c692363042fc70413
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Tue Jan 2 22:55:18 2024 -0700
+
+    Finish project
+
+commit cbac20e33ca1f1244359258c47b469c894dfb3b0
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Tue Jan 2 21:18:50 2024 -0700
+
+    ALmost finished report
+
+commit 18de20259d26dc1732b25446e1bfd6bf54e48dbb
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Mon Jan 1 23:53:46 2024 -0700
+
+    Almost done report
+
+commit bf91e1b64a4c1ff3373621140314a9197fe7c73c
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Sat Dec 16 17:20:29 2023 -0700
+
+    Work on project
+
+commit fb89fc6221a3359d935daa589f1c6a4a1ae62b92
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Wed Dec 13 23:28:51 2023 -0700
+
+    Work on midterm
+
+commit 0726ccfdc8fd01b3df613019562b444166837852
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Sun Dec 10 23:28:00 2023 -0700
+
+    Work on functional requirements
+
+commit 10fd6d67fb977baf1ba1bd27a9181b6eca19aeba
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Thu Dec 7 22:36:43 2023 -0700
+
+    Finish user requirements.
+
+commit 263039a77d29fc085b51c7dda8f561a018c04741
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Wed Dec 6 23:51:48 2023 -0700
+
+    Work on user requirements
+
+commit 5a02e4c2b16cb3c759493ec7bf0c2687a4d768a5
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Tue Dec 5 23:59:42 2023 -0700
+
+    Work on use cases
+
+commit fc6aa025bd9a20b8fc7c41bc541e290f8cf9d964
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Tue Dec 5 23:24:00 2023 -0700
+
+    Work on final midterm
+
+commit 2480b276ee4e36c08d74d588977f66b717a33482
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Tue Dec 5 00:01:47 2023 -0700
+
+    Work on main project file
+
+commit 78393e0eaa4eeeb817eea4b950d54b53f9163f27
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Mon Dec 4 23:14:16 2023 -0700
+
+    Work on main project file
+
+commit 1832b4bd342b6406da4ae4882cd3c9e75447241d
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Sun Dec 3 22:54:32 2023 -0700
+
+    Work on SWOT
+
+commit d9582ae4700f1223972582605b58b410e6737726
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Sun Dec 3 20:41:50 2023 -0700
+
+    Work on SWOT
+
+commit 16389f2b159d38790309108597a6934ebb67ca7b
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Sat Dec 2 17:20:15 2023 -0700
+
+    FInish market analysis
+
+commit e67e7ac52ba9e0bf25a264cfafb993b5170cfdf4
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Wed Nov 29 22:20:25 2023 -0700
+
+    Refine market analysis.
+
+commit 914b03096c6b4568564a12c9e4e78d4e09215a09
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Tue Nov 28 22:57:41 2023 -0700
+
+    Create use cases template
+
+commit 376f9fef608abf244cf471772b27d26069cdc70f
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Mon Nov 27 21:33:48 2023 -0700
+
+    Rough draft of scope and vision
+
+commit 25f5cd7eec3a3306e4878c581cff3aa83a29b7e1
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Fri Nov 24 23:01:49 2023 -0700
+
+    Work on vision and scope.
+
+commit c618125aa49220bb4f05a090b55869e369db149f
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Mon Nov 6 21:22:06 2023 -0700
+
+    Nail down outline of report and confirm we're working on web extension
+
+commit 7bd316f0f60a4c941f3e92e5b92232291599dd5a
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Sun Nov 5 22:16:29 2023 -0700
+
+    Create layout of report
+
+commit 3f4ab6dac47899812bdb9a2b22c4309dfe3946dc
+Author: Gage-Fleming <gage.fleming@outlook.com>
+Date:   Sun Nov 5 01:16:28 2023 -0600
+
+    Create project propsal report
+
+commit 2e3f43280242c24c7566cdc812d24454e3f77fa4
+Author: Gage Fleming <36221669+Gage-Fleming@users.noreply.github.com>
+Date:   Sun Nov 5 00:41:08 2023 -0600
+
+    Initial commit
