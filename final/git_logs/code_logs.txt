@@ -1,0 +1,89 @@
+commit 100b5ee56028f80d91c020d2e751690af139cbe7
+Author: hashem59 <hrmm1@student.london.ac.uk>
+Date:   Sun Mar 10 10:00:15 2024 +0200
+
+    add reset functionality, rename course attributes
+
+commit ea2451a492e4f555551284ae11d074effa1f11d4
+Author: hashem59 <hrmm1@student.london.ac.uk>
+Date:   Sun Mar 10 08:12:58 2024 +0200
+
+    update data format and export functionality
+
+commit b2736442bdd61b0515fd19b5f62049ac47c56720
+Author: hashem59 <hrmm1@student.london.ac.uk>
+Date:   Sat Mar 9 22:04:25 2024 +0200
+
+    course tracking
+
+commit d2cbc4388d18e7bcc71d984be59143f3c66d453e
+Author: hashem59 <hrmm1@student.london.ac.uk>
+Date:   Mon Feb 26 21:54:35 2024 +0200
+
+    small edits
+
+commit 888c317940167dd1378896aa3712cb52e1375044
+Author: Hashem <hrmm1@student.london.ac.uk>
+Date:   Sun Feb 25 09:32:30 2024 +0200
+
+    initiate course
+
+commit a847062855010688e4df75d503a8b9ffbca049ce
+Author: Hashem <111278402+hashemHP@users.noreply.github.com>
+Date:   Sat Feb 17 13:23:47 2024 +0200
+
+    add/remove functionality for browser limitter
+
+commit 33aee90164e39a074d31ac5c9847ce8d022e7873
+Author: Hashem <111278402+hashemHP@users.noreply.github.com>
+Date:   Sat Feb 17 11:08:02 2024 +0200
+
+    small edit
+
+commit 3ae7d2bc94c8d04bc309c4621e8ea7fc5a11fbe8
+Author: Hashem <111278402+hashemHP@users.noreply.github.com>
+Date:   Sat Feb 17 10:40:56 2024 +0200
+
+    add browser limiter functionality
+
+commit 78bc6c1cfc7d2846a59af3ab85c7fc726aea9b28
+Author: Hashem <111278402+hashemHP@users.noreply.github.com>
+Date:   Mon Jan 1 19:50:04 2024 +0200
+
+    remove comment
+
+commit 3fff6a4e47a822fcfead8d5ce3cc38f4d7a40033
+Author: Hashem <111278402+hashemHP@users.noreply.github.com>
+Date:   Mon Jan 1 19:49:00 2024 +0200
+
+    update logo
+
+commit 62969c32c39a44a133a6e1b3c8657299ac61fa6b
+Author: Hashem <111278402+hashemHP@users.noreply.github.com>
+Date:   Wed Dec 27 10:10:18 2023 +0200
+
+    add readme
+
+commit 35d64111bd1acc1baacd5fb17ee56e4cd000984f
+Author: Hashem <111278402+hashemHP@users.noreply.github.com>
+Date:   Wed Dec 27 10:09:12 2023 +0200
+
+    add readme
+
+commit 56e203de8bde4d84fb764c5f58d825e3a035771d
+Author: Hashem <111278402+hashemHP@users.noreply.github.com>
+Date:   Wed Dec 27 09:18:19 2023 +0200
+
+    create option page
+
+commit dd1068730cefb4e84351ee87315b7815864e5949
+Author: Hashem <111278402+hashemHP@users.noreply.github.com>
+Date:   Sat Dec 2 13:15:15 2023 +0200
+
+    first draft design
+
+commit 1fdcb73fc42f80949855e72526119a925b4cb543
+Author: Hashem <111278402+hashemHP@users.noreply.github.com>
+Date:   Fri Dec 1 13:42:08 2023 +0200
+
+    starter code
